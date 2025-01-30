@@ -9,4 +9,4 @@
 
 # Certificado
 
-Você pode acessar o [Certificado aqui](certificado.JPG)
+Você pode acessar o [Certificado aqui](certificado/certificado.JPG)
