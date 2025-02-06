@@ -9,4 +9,5 @@
 
 # Certificado
 
-Você pode acessar o [Certificado aqui](certificado/certificado.JPG)
+![Certificado](https://github.com/GersonAparecidoLima/TypeScriptParadigmaFuncional/raw/master/certificado/certificado.JPG)
+
